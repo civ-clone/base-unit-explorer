@@ -13,7 +13,8 @@
   "files": [
     "Explorer.js",
     "Explorer.d.ts",
-    "Explorer.js.map"
+    "Explorer.js.map",
+    "Explorer.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
